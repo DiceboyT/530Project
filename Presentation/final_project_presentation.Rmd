@@ -44,6 +44,8 @@ data <- read.csv("nfl-data.csv")
 ## Related Work
 
 - David Romer 2006 paper [Do Firms Maximize? Evidence from Professional Football](http://eml.berkeley.edu//~dromer/papers/JPE_April06.pdf)
+  - NFL teams are risk-averse and tend to view points scored differently when trying to win
+  - Romer tests different scenarios to see how points changes per drive
 
 - Brian Burke at [Advanced Football Analytics](http://www.advancedfootballanalytics.com/) (Creator of Expected Points Added statistic which we used in our analysis)
   - Expected points added (EPA) provides insight into which play will lead to the most points given the current situation
