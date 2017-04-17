@@ -1,1 +1,7 @@
+---
+title: "Analysis of Goal Line Plays in the NFL"
+author: "David Edison, Ahmed Raza, Patrick McDermott, Helen Wang"
+date: "April 28, 2017"
+output: pdf_document
+---
 
